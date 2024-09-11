@@ -24,6 +24,6 @@ void programInitialize(void) {
 }
 
 void programLoop(void) {
-    // Start here here
+    // Start code here
 }
 ```
