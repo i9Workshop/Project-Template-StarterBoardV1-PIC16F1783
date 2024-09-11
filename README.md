@@ -1,4 +1,4 @@
-# Project-Template-StarterBoardV1-PIC16F1783
+# Project Template for StarterBoardV1-PIC16F1783
 
 ## main.c
 ```
